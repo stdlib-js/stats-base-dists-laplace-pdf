@@ -72,7 +72,9 @@ If no recognized module system is present, access bundle contents via the global
 ```html
 <script type="text/javascript">
 (function () {
+(function () {
     window.pdf;
+})();
 })();
 </script>
 ```
@@ -150,6 +152,7 @@ y = mypdf( 12.0 );
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-pdf@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
+(function () {
 
 var mu;
 var b;
@@ -165,6 +168,7 @@ for ( i = 0; i < 100; i++ ) {
     console.log( 'x: %d, µ: %d, b: %d, f(x;µ,b): %d', x.toFixed( 4 ), mu.toFixed( 4 ), b.toFixed( 4 ), y.toFixed( 4 ) );
 }
 
+})();
 })();
 </script>
 </body>
