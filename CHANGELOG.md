@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-06)
+## Unreleased (2025-04-12)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`537c0b7`](https://github.com/stdlib-js/stdlib/commit/537c0b725bd2b88896325aea1e23239e686e8ad5) - **chore:** clean-up _(by Athan Reines)_
 -   [`8a2e9e4`](https://github.com/stdlib-js/stdlib/commit/8a2e9e46aa666da8369c85c36c3186af156eba7d) - **feat:** add C implementation for `stats/base/dists/laplace/pdf` [(#4054)](https://github.com/stdlib-js/stdlib/pull/4054) _(by Divyansh Seth, Philipp Burckhardt, stdlib-bot)_
 -   [`e5238bb`](https://github.com/stdlib-js/stdlib/commit/e5238bb96b7138d346ea0db8b535aec64c8a856c) - **bench:** refactor random number generation in `stats/base/dists/laplace` [(#5270)](https://github.com/stdlib-js/stdlib/pull/5270) _(by GK Bishnoi)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
@@ -48,8 +49,9 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Divyansh Seth
 -   GK Bishnoi
 -   Philipp Burckhardt
