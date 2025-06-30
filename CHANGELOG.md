@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-12)
+## Unreleased (2025-06-30)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`7e24b8b`](https://github.com/stdlib-js/stdlib/commit/7e24b8ba0fff87a56584bb1a2fa106eb88267596) - **test:** slightly increase tolerances for passing tests _(by Philipp Burckhardt)_
 -   [`537c0b7`](https://github.com/stdlib-js/stdlib/commit/537c0b725bd2b88896325aea1e23239e686e8ad5) - **chore:** clean-up _(by Athan Reines)_
 -   [`8a2e9e4`](https://github.com/stdlib-js/stdlib/commit/8a2e9e46aa666da8369c85c36c3186af156eba7d) - **feat:** add C implementation for `stats/base/dists/laplace/pdf` [(#4054)](https://github.com/stdlib-js/stdlib/pull/4054) _(by Divyansh Seth, Philipp Burckhardt, stdlib-bot)_
 -   [`e5238bb`](https://github.com/stdlib-js/stdlib/commit/e5238bb96b7138d346ea0db8b535aec64c8a856c) - **bench:** refactor random number generation in `stats/base/dists/laplace` [(#5270)](https://github.com/stdlib-js/stdlib/pull/5270) _(by GK Bishnoi)_
