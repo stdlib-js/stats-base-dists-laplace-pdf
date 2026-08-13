@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-27)
+## Unreleased (2026-08-13)
 
 <section class="commits">
 
@@ -12,6 +12,8 @@
 
 <details>
 
+-   [`5822b6f`](https://github.com/stdlib-js/stdlib/commit/5822b6fa524f9619c806cc21e0ed033c23c304af) - **test:** migrate `stats/base/dists/laplace/pdf` to ULP-based assertions [(#14213)](https://github.com/stdlib-js/stdlib/pull/14213) _(by Athan Reines)_
+-   [`c5d65b1`](https://github.com/stdlib-js/stdlib/commit/c5d65b14d15dd90690666291af0ae6550d50c6d2) - **chore:** clean-up [(#13725)](https://github.com/stdlib-js/stdlib/pull/13725) _(by Philipp Burckhardt, Athan Reines)_
 -   [`4a0c3be`](https://github.com/stdlib-js/stdlib/commit/4a0c3be4719f713b69a8ff6b66cc3b0573bf4444) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`f25221d`](https://github.com/stdlib-js/stdlib/commit/f25221d5fcb5e84cb0ad4951db6f08f254c12d15) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`2cee50a`](https://github.com/stdlib-js/stdlib/commit/2cee50a75da1437551b91682b8785dbae8ab897f) - **docs:** update Markdown equation elements [(#13547)](https://github.com/stdlib-js/stdlib/pull/13547) _(by stdlib-bot, Athan Reines)_
