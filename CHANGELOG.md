@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-11-01)
+## Unreleased (2026-11-11)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`682c7e5`](https://github.com/stdlib-js/stdlib/commit/682c7e528c644bfc91448f452ad0e73f70173308) - **refactor:** use `constants/float64/nan` in `stats/base/dists/laplace/pdf` [(#16581)](https://github.com/stdlib-js/stdlib/pull/16581) _(by Subham Mahapatra)_
 -   [`5822b6f`](https://github.com/stdlib-js/stdlib/commit/5822b6fa524f9619c806cc21e0ed033c23c304af) - **test:** migrate `stats/base/dists/laplace/pdf` to ULP-based assertions [(#14213)](https://github.com/stdlib-js/stdlib/pull/14213) _(by Athan Reines)_
 -   [`c5d65b1`](https://github.com/stdlib-js/stdlib/commit/c5d65b14d15dd90690666291af0ae6550d50c6d2) - **chore:** clean-up [(#13725)](https://github.com/stdlib-js/stdlib/pull/13725) _(by Philipp Burckhardt, Athan Reines)_
 -   [`4a0c3be`](https://github.com/stdlib-js/stdlib/commit/4a0c3be4719f713b69a8ff6b66cc3b0573bf4444) - **docs:** update Markdown equation elements _(by stdlib-bot)_
@@ -31,10 +32,11 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Philipp Burckhardt
+-   Subham Mahapatra
 -   Vishal Gaikwad
 
 </section>
